@@ -30,11 +30,11 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## Screenshot
+## Output
 
-The following image shows the web application's appearance and functionality:
+The following GIF shows the web application's appearance and functionality:
 
-!["Circle".](./images/circle.PNG)
+!["MahdisNoteTaker".](./media/MahdisNoteTaker.gif)
 
 ## Installation
 
