@@ -36,6 +36,10 @@ The following GIF shows the web application's appearance and functionality:
 
 !["MahdisNoteTaker".](./media/MahdisNoteTaker.gif)
 
+## Setup
+
+Make sure Node.js is installed. Open the terminal and enter the command npm install. Then run npm start to start the server and navigate to `http://localhost:3001/` in your browser's URL.
+
 ## Installation
 
 Github repository:
@@ -44,7 +48,7 @@ https://github.com/mahdi83777/MahdisNoteTaker
 
 Deployed Heroku:
 
-https://www.youtube.com/watch?v=u-2_6l4C4co
+https://shrouded-springs-09070.herokuapp.com/
 
 ## References
 
